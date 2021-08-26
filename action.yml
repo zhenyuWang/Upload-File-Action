@@ -1,5 +1,5 @@
 # action.yml
-name: 'Upload-File-Action'
+name: 'Upload-Files-Action'
 description: 'Upload file to your server use sftp & ssh private key'
 inputs:
   username:
